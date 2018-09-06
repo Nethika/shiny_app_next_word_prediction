@@ -19,8 +19,8 @@ The n-gram data frames were saved as rds files. They are size compressed and fas
 <div id="bg">
   <img src="images/app_1.png" alt="" width="50%" height="50%">
   <img src="images/app_2.png" alt="" width="50%" height="50%">
-  <img src="images/app_3.png" alt="" width="30%" height="30%">
-  <img src="images/app_4.png" alt="" width="30%" height="30%">
+  <img src="images/app_3.png" alt="" width="50%" height="50%">
+  <img src="images/app_4.png" alt="" width="50%" height="50%">
 
 </div> 
 
