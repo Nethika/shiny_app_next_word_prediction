@@ -18,7 +18,7 @@ A "next word prediction" model was developed by optimizing accuracy and efficien
 
 
 
-How the App Works?
+How Does the App Work?
 ========================================================
 
 ![Next Word Prediction App](images/app_1.png)
@@ -39,8 +39,8 @@ Useful Links
 ========================================================
 
 - [Milestone Report](https://rpubs.com/nethika/milestone_report) for the first phase of the project.
-- [Shiny Interactive App]()
-- [Github Repo]()
+- [Shiny Interactive App](https://nethika.shinyapps.io/Shiney_App_Next_Word/)
+- [Github Repo](https://github.com/Nethika/shiny_app_next_word_prediction)
 - [Slide Deck](http://rpubs.com/nethika/predict_next_word) 
 - [Coursera Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
 - Data Downloaded from: [Capstone Dataset](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)

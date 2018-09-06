@@ -12,7 +12,10 @@ The n-gram data frames were saved as rds files. They are size compressed and fas
 
 [Shiny interactive app](https://nethika.shinyapps.io/Shiney_App_Next_Word/) was developed and launched in Shinyapps.io. It predicts the next word, 2nd guess and 3rd guess when user enters words. Also displays the plots and data as selected by the user.
 
-[Slide deck](http://rpubs.com/nethika/predict_next_word)  for the project is published in Rpubs.
+[Slide deck](http://rpubs.com/nethika/predict_next_word) for the project is published in Rpubs.
+
+[Github Repo](https://github.com/Nethika/shiny_app_next_word_prediction) contains all components used in the project.
+
 
 ## App Components:
 
